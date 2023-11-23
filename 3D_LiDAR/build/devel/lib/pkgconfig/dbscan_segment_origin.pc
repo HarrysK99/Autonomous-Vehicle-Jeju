@@ -1,0 +1,8 @@
+prefix=/home/kai/catkin_ws/src/dbscan_segment_origin/build/devel
+
+Name: dbscan_segment_origin
+Description: Description of dbscan_segment_origin
+Version: 0.0.0
+Cflags: -I/home/kai/catkin_ws/src/dbscan_segment_origin/build/devel/include -I/home/kai/catkin_ws/src/dbscan_segment_origin/include
+Libs: -L${prefix}/lib -ldbscan_segment_origin
+Requires: roscpp std_msgs

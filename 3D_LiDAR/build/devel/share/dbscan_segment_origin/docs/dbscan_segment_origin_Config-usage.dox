@@ -1,0 +1,17 @@
+\subsubsection usage Usage
+\verbatim
+<node name="dbscan_segment_origin" pkg="dbscan_segment_origin" type="dbscan_segment_origin">
+  <param name="voxel_grid_size" type="double" value="0.1" />
+  <param name="CorePointMinPt" type="int" value="10" />
+  <param name="ClusterTolerance" type="double" value="0.3" />
+  <param name="MinClusterSize" type="int" value="30" />
+  <param name="MaxClusterSize" type="int" value="1000" />
+  <param name="roi_max_x" type="double" value="6.0" />
+  <param name="roi_max_y" type="double" value="3.0" />
+  <param name="roi_max_z" type="double" value="1.0" />
+  <param name="roi_min_x" type="double" value="-4.0" />
+  <param name="roi_min_y" type="double" value="-3.0" />
+  <param name="roi_min_z" type="double" value="-3.0" />
+</node>
+\endverbatim
+

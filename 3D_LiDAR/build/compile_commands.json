@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/kai/catkin_ws/src/dbscan_segment_origin/build",
+  "command": "/usr/bin/clang++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dbscan_segment_origin\\\" -I/home/kai/catkin_ws/src/dbscan_segment_origin/build/devel/include -I/home/kai/catkin_ws/src/dbscan_segment_origin/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/cmake/cfgbuild.cmake -isystem /usr/local/include/opencv4  -O2 -Wall  -g   -o CMakeFiles/dbscan_segment_origin.dir/src/dbscan_segment_origin.cpp.o -c /home/kai/catkin_ws/src/dbscan_segment_origin/src/dbscan_segment_origin.cpp",
+  "file": "/home/kai/catkin_ws/src/dbscan_segment_origin/src/dbscan_segment_origin.cpp"
+},
+{
+  "directory": "/home/kai/catkin_ws/src/dbscan_segment_origin/build",
+  "command": "/usr/bin/clang++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dbscan_segment_origin\\\" -I/home/kai/catkin_ws/src/dbscan_segment_origin/build/devel/include -I/home/kai/catkin_ws/src/dbscan_segment_origin/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/pcl-1.10 -I/usr/include/vtk-7.1 -I/usr/include/freetype2 -I/cmake/cfgbuild.cmake -isystem /usr/local/include/opencv4  -O2 -Wall  -g   -o CMakeFiles/dbscan_segment_origin.dir/src/cluster.cpp.o -c /home/kai/catkin_ws/src/dbscan_segment_origin/src/cluster.cpp",
+  "file": "/home/kai/catkin_ws/src/dbscan_segment_origin/src/cluster.cpp"
+},
+{
+  "directory": "/home/kai/catkin_ws/src/dbscan_segment_origin/build/gtest/googlemock",
+  "command": "/usr/bin/clang++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/kai/catkin_ws/src/dbscan_segment_origin/build/gtest/googlemock",
+  "command": "/usr/bin/clang++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/kai/catkin_ws/src/dbscan_segment_origin/build/gtest/googletest",
+  "command": "/usr/bin/clang++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kai/catkin_ws/src/dbscan_segment_origin/build/gtest/googletest",
+  "command": "/usr/bin/clang++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

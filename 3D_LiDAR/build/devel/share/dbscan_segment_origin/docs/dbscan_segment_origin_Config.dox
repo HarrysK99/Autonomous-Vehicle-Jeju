@@ -1,0 +1,16 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~voxel_grid_size" : \b [double] Default: 0.1 min: 0.0, default: 0.1, max: 0.5
+- \b "~CorePointMinPt" : \b [int] Default: 10 min: 2, default: 10, max: 100
+- \b "~ClusterTolerance" : \b [double] Default: 0.3 min: 0.0, default: 0.3, max: 1.0
+- \b "~MinClusterSize" : \b [int] Default: 30 min: 10, default: 30, max: 100
+- \b "~MaxClusterSize" : \b [int] Default: 1000 min: 20, default: 1000, max: 10000
+- \b "~roi_max_x" : \b [double] Default: 6 min: 4.0, default: 6.0, max: 50.0
+- \b "~roi_max_y" : \b [double] Default: 3 min: 2.0, default: 3.0, max: 30.0
+- \b "~roi_max_z" : \b [double] Default: 1 min: 0.0, default: 1.0, max: 3.0
+- \b "~roi_min_x" : \b [double] Default: -4 min: -30.0, default: -4.0, max: 0.0
+- \b "~roi_min_y" : \b [double] Default: -3 min: -30.0, default: -3.0, max: -2.0
+- \b "~roi_min_z" : \b [double] Default: -3 min: -5.0, default: -3.0, max: 0.0
+
